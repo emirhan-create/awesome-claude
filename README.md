@@ -164,6 +164,7 @@ message = client.messages.create(
 - **[mcp-server-kubernetes](https://github.com/manusa/kubernetes-mcp-server)** — Kubernetes cluster management through Claude.
 - **[mcp-atlas-docs](https://github.com/mongodb-developer/mongodb-mcp-server)** — Official MongoDB MCP. Query Atlas clusters and manage collections.
 - **[mcp-server-raycast](https://developers.raycast.com)** — Connect Claude Code to your entire Raycast extension ecosystem.
+- - [VibeRoster](https://github.com/emirhan-create/viberoster) - 120 curated AI agent rules, token savers, and multi-agent syndicate builder for Claude & Cursor.
 
 ### Building an MCP Server
 
